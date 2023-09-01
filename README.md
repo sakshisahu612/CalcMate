@@ -23,6 +23,13 @@ Files
 
 - **utils.css**: Additional CSS utility classes for styling and layout enhancements.
 
+## Accessing the Calculator
+
+You can access the calculator by following this link: [CalcMate](https://calcmate.sakshisahu4.repl.co)
+
+Simply click on the link to open the calculator in your web browser and start performing calculations easily.
+
+
 ## How to Use the Calculator
 
 Using the calculator is simple and intuitive. Follow these steps to perform calculations:
