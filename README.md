@@ -5,9 +5,13 @@ _This is a simple web-based calculator application built using HTML, CSS, and Ja
 ## Features
 
 - __Basic Arithmetic Operations__: The calculator supports essential arithmetic operations, including addition, subtraction, multiplication, and division. Users can perform these calculations with ease.
+  
 - __Clear Input__: The "C" button allows users to clear the input field, enabling quick and easy corrections when entering numbers or operators.
+  
 - __Percentage Calculations__: Users can calculate percentages of numbers by using the "%" button. This feature is useful for various applications, including tax calculations and discounts.
+  
 - __User-Friendly Interface__: The interface is intuitive and user-friendly, making it easy for users of all levels to perform calculations efficiently.
+  
 - __Hover Effects__: Interactive hover effects have been added to enhance the user experience. Buttons change their background color when the user hovers over them, providing visual feedback.
 
 Files
