@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-color: lightblue;
+}
+
+/* Style for the circular buttons */
+.button {
+  width: 66px;
+  height: 66px;
+  border-radius: 50%; /* Makes the button circular */
+  padding: 0; /* Remove padding to maintain the circle shape */
+  border: 2px solid white;
+  cursor: pointer;
+  background-color: #0f0b0c;
+  color: white; /* Text color */
+  font-size: 20px; /* Font size */
+  transition: background-color 0.3s ease; /* Add a smooth hover effect */
+}
+
+/* Add a hover effect for the circular buttons */
+.button:hover {
+  background-color: #858585; /* Change the background color on hover */
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid #fafafa;
+    border-radius: 5px;
+}
